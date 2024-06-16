@@ -44,6 +44,9 @@ Mart was founded by Jefferson Lopez, a 19-year-old visionary from Colombia curre
 
 Stay updated with our latest developments and product launches by following us on our social media channels and visiting our website.
 
+- **GitHub**: [Mart Org](https://github.com/mart-org)
+- **Twitter**: [twitter.com/jefferson__dev](https://twitter.com/jefferson__dev)
+
 ---
 
 Thank you for choosing Mart. We look forward to helping you achieve greater productivity and success with our innovative solutions.
