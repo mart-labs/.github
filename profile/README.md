@@ -1,7 +1,7 @@
 # Mart
 
 <p align="center">
-  <img src="https://res.cloudinary.com/jeffersoncloud/image/upload/v1715885335/mart/tqh0oj2b2zo1nbjlcoxh.svg" alt="Mart Logo" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="https://res.cloudinary.com/jeffersoncloud/image/upload/v1715885335/mart/tqh0oj2b2zo1nbjlcoxh.svg" alt="Mart Logo" style="border-radius: 50%; width: 150px; height: 150px; overflow: hidden;">
 </p>
 
 ## Overview
@@ -35,7 +35,7 @@ Mart aspires to expand its product portfolio with new and innovative application
 ## Founder
 
 <p align="center">
-  <img src="https://res.cloudinary.com/jeffersoncloud/image/upload/v1718559599/mart/v259qpyohwdjixolqx3z.jpg" alt="Jefferson Lopez" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="https://res.cloudinary.com/jeffersoncloud/image/upload/v1718559599/mart/v259qpyohwdjixolqx3z.jpg" alt="Jefferson Lopez" style="border-radius: 50%; width: 150px; height: 150px; overflow: hidden;">
 </p>
 
 Mart was founded by Jefferson Lopez, a 19-year-old visionary from Colombia currently residing in the United States. Jefferson's passion for technology and innovation drives Mart's mission to create products that make a difference.
